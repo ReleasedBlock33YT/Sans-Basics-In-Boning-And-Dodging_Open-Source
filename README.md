@@ -1,8 +1,8 @@
-#Welcome
+**#Welcome**
 1. Welcome to the open source code of Sans Basics!
 2. If you want, you can clone this respitory to make your own version of Sans Basics.
 
-#Cloning
+**#Cloning**
 1. Once you clone this respitory, you will probally need to follow these steps:
 2. Download / Install Unity Hub on your computer
 3. Open the project (SANS) using Unity Hub
